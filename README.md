@@ -20,6 +20,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby)
 ![StoryBook](https://img.shields.io/badge/-StoryBook-black?style=flat-square&logo=storybook)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
