@@ -12,8 +12,8 @@
 
 ### ⚡ Technologies i use
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=strapi)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
