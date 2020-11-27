@@ -36,6 +36,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
 ![Amazon](http://img.shields.io/badge/-AWSS3-black?style=flat-square&logo=Amazon)
+![Amazon](http://img.shields.io/badge/-AWSSES-black?style=flat-square&logo=Amazon)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
