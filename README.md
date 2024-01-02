@@ -6,7 +6,7 @@
 - 💻 I'm currently working at **Grupo Boticário**
 - 🚀 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Open Source**
-- 💬 Ask me about **development**, **design patterns**, **SOLID**, **software engineering**
+- 💬 Ask me about **development**, **design patterns**, **Clean Code**, **software engineering**
 - 🎸 Fun fact: I had a band when I was younger, if you are curious this is it:  
 [![Banda Rembrandt](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=jDHks7OCxkk)
 
