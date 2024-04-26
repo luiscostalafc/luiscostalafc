@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-#### I'm a Front-end Developer working in Paraná, Brasil.
 
 - 💻 I'm currently working at **Grupo Boticário**
 - 🚀 I’m looking to collaborate on **Open Source**
