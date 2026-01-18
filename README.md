@@ -2,7 +2,7 @@
 
 
 
-- 💻 I'm currently working at **Grupo Boticário**
+- 💻 I'm currently working at **Plan A**
 - 🚀 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Open Source**
 - 💬 Ask me about **development**, **design patterns**, **Clean Code**, **software engineering**
